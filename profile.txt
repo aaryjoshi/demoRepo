@@ -6,3 +6,5 @@ location : mumbai
 skill: c++, dsa, javascript
 
 this is for stash demo
+
+this is for merge demo
